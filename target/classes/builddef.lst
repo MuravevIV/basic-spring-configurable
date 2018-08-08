@@ -1,0 +1,17 @@
+-Xajruntimetarget:1.5
+-1.8
+-encoding
+UTF-8
+-source
+1.8
+-target
+1.8
+-classpath
+/root/.m2/repository/org/aspectj/aspectjrt/1.9.1/aspectjrt-1.9.1.jar:/root/.m2/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-aspects/5.0.8.RELEASE/spring-aspects-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-tx/5.0.8.RELEASE/spring-tx-5.0.8.RELEASE.jar:/root/.m2/repository/junit/junit/4.12/junit-4.12.jar:/root/.m2/repository/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar:/root/.m2/repository/org/springframework/spring-test/5.0.8.RELEASE/spring-test-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-aop/5.0.8.RELEASE/spring-aop-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-beans/5.0.8.RELEASE/spring-beans-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-jcl/5.0.8.RELEASE/spring-jcl-5.0.8.RELEASE.jar:/root/.m2/repository/org/springframework/spring-expression/5.0.8.RELEASE/spring-expression-5.0.8.RELEASE.jar:/root/.m2/repository/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar:/home/ilya_muravyev/repos/basic-spring-configurable/target/classes
+-aspectpath
+/root/.m2/repository/org/springframework/spring-aspects/5.0.8.RELEASE/spring-aspects-5.0.8.RELEASE.jar
+-d
+/home/ilya_muravyev/repos/basic-spring-configurable/target/classes
+/home/ilya_muravyev/repos/basic-spring-configurable/src/main/java/com/ilyamur/basic/spring/configurable/entity/Person.java
+/home/ilya_muravyev/repos/basic-spring-configurable/src/main/java/com/ilyamur/basic/spring/configurable/service/Greeter.java
+/home/ilya_muravyev/repos/basic-spring-configurable/src/main/java/com/ilyamur/basic/spring/configurable/ApplicationConfiguration.java
