@@ -6,6 +6,8 @@ Bottled AspectJ magic.
 
 See example:
 
+```com.ilyamur.basic.spring.configurable.entity.Person```
+
 ```com.ilyamur.basic.spring.configurable.entity.PersonTest```
 
 Run example:
